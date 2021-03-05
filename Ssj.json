@@ -1,10 +1,19 @@
 {"contacts":
- [
-  {"id":"1","name":"Febri"},
-  {"id":"2","name":"Edi"},
-  {"id":"3","name":"Cendet"},
-  {"id":"4","name":"curang"},
-  {"id":"5","name":"coba lagi"}
+ [ 
+  {"name":"Febri","alamat":"http://Febri"},
+  {"name":"edi","alamat":"http://Edi"}, 
+  {"name":"cendet","alamat":"http://Cendet"}, 
+  {"name":"curang","alamat":"http://curang"}, 
+  {"name":"coba lagi","alanat":"http://coba lagi"}
  
- ]
+ ] 
 }
+
+
+
+
+
+
+ 
+
+
